@@ -1,0 +1,6 @@
+{
+  "name": "Colton Ride",
+  "description": "A comprehensive Uber clone with real-time tracking, fare estimation, and driver/rider dual modes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["firebase", "google-maps", "ai-fare-estimation"]
+}
